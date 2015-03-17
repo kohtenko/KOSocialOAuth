@@ -1,0 +1,16 @@
+PODS:
+  - Bolts (1.1.4)
+  - Facebook-iOS-SDK (3.23.1):
+    - Bolts (~> 1.0)
+  - Twitter-OAuth (0.1.2)
+
+DEPENDENCIES:
+  - Facebook-iOS-SDK
+  - Twitter-OAuth
+
+SPEC CHECKSUMS:
+  Bolts: dd9fb8433d67f5acc3b6b4d1379bbc5513d716c1
+  Facebook-iOS-SDK: 89dae50e975ebab95a01b0962d27277fc9cf08fd
+  Twitter-OAuth: ad30f3d9e9a31fa8c0f91595b5433795b6a08c91
+
+COCOAPODS: 0.36.0

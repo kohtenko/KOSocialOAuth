@@ -1,8 +1,4 @@
-source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '8.0'
 
-
-target 'KOSocialOAuth', :exclusive => true do
-  pod "KOSocialOAuth", :path => "../"
-
-  
-end
+pod "Facebook-iOS-SDK"
+pod "Twitter-OAuth"
